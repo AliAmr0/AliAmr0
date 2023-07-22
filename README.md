@@ -1,4 +1,4 @@
-<img align="center" atl="coding" src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX29811791.jpg" width = "1000" height = "400">
+<img align="center" atl="coding" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201223221222/What-is-Machine-Learning.jpg" >
 <h1 align="center">Hi 👋, I'm Ali Amr</h1>
 <h3 align="center">I'm a Machine Learning Student From Egypt.</h3>
 <img align="right" atl="coding" width="400" src="">
