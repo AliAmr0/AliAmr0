@@ -1,4 +1,4 @@
-<img align="center" atl="coding" src="https://www.smartdatacollective.com/wp-content/uploads/2020/12/machine-learning-advantages-860x574.jpg.webp">
+<img align="center" atl="coding" src="[https://www.smartdatacollective.com/wp-content/uploads/2020/12/machine-learning-advantages-860x574.jpg.webp](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201223221222/What-is-Machine-Learning.jpg)">
 <h1 align="center">Hi 👋, I'm Ali Amr</h1>
 <h3 align="center">I'm a Machine Learning Student From Egypt.</h3>
 <img align="right" atl="coding" width="400" src="">
