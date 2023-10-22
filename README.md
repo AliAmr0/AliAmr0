@@ -1,5 +1,6 @@
 <img align="center" atl="coding" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201223221222/What-is-Machine-Learning.jpg" >
 <h1 align="center">Hi 👋, I'm Ali Amr</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zyad246&label=Profile%20views&color=0e75b6&style=plastic" /> </p>
 <h3 align="center">I'm a Machine Learning Student From Egypt.</h3>
 <img align="right" atl="coding" width="400" src="https://miro.medium.com/v2/resize:fit:875/0*hpyUPaBF9V3Mb5T6.gif">
 
