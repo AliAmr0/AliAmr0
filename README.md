@@ -17,9 +17,9 @@
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ali amr](https://www.linkedin.com/in/ali-amr-b68167249/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali amr" height="30" width="40" /></a>
-<a href="[https://kaggle.com/ali amr](https://www.kaggle.com/aliamrali)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ali amr" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/ali amr](https://www.hackerrank.com/profile/aliamreducation)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ali amr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-amr-b68167249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali amr" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/aliamrali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ali amr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/aliamreducation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ali amr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
