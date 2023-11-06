@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **aliamreducation@gmail.com**
 
-<img align="right" alt="me" width="300" height="300" src="https://github.com/AliAmr0/AliAmr0/blob/main/WhatsApp%20Image%202023-11-06%20at%2012.21.55_f1f57c37.jpg">
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
