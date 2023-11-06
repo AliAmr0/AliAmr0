@@ -1,4 +1,4 @@
-![github-header-image (2)]((https://github.com/AliAmr0/AliAmr0/blob/main/data_science_1.png)))
+![logo](https://github.com/AliAmr0/AliAmr0/blob/main/data_science_1.png)
 
 <h1 align="center">Hi 👋, I'm Ali Amr</h1>
 <h3 align="center">A passionate Data Science from Egypt.</h3>
