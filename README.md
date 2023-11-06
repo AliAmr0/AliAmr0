@@ -1,7 +1,8 @@
 ![logo](https://github.com/AliAmr0/AliAmr0/blob/main/data_science_1.png)
 
 <h1 align="center">Hi 👋, I'm Ali Amr</h1>
-<h3 align="center">A passionate Data Science from Egypt.</h3>
+<h3 align="center"> Passionate about Data Science .</h3>
+<h3 align="center"> From Egypt .</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aliamr0&label=Profile%20views&color=0e75b6&style=flat" alt="aliamr0" /> </p>
 
