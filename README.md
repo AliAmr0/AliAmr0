@@ -1,4 +1,4 @@
-![github-header-image (2)]([https://github.com/zyad246/zyad246/assets/47024065/cb238683-6e53-4ffb-8551-79dca09ca833](https://cdn.futura-sciences.com/cdn-cgi/image/width=1024,quality=60,format=auto/sources/images/data_science_1.jpg))
+![github-header-image (2)]((https://github.com/AliAmr0/AliAmr0/blob/main/data_science_1.png)))
 
 <h1 align="center">Hi 👋, I'm Ali Amr</h1>
 <h3 align="center">A passionate Data Science from Egypt.</h3>
